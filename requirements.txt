@@ -1,0 +1,13 @@
+PyMuPDF
+numpy
+openai
+requests
+rank-bm25
+scikit-learn
+networkx
+matplotlib
+tqdm
+Pillow
+faiss-cpu
+pandas
+ipywidgets
