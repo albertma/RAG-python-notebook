@@ -11,3 +11,8 @@ Pillow
 faiss-cpu
 pandas
 ipywidgets
+llama-index
+llama-index-embeddings-siliconflow
+llama-index-llms-siliconflow
+llama-index-vector-stores-chroma
+llama-index-vector-stores-elasticsearch
